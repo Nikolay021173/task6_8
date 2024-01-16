@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;  
+}
+
+div {
+    margin: 0 30px;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 35px;   
+}
+
+ul {
+    font-size: 30px;
+    line-height: 40px;
+    list-style-type: none; 
+}
+
+a {
+    text-decoration: none;
+ }
+
+a:visited {
+	color:  black;
+}
+a:hover {
+	color: green;
+}
+a:active {
+	color:blue;
+}

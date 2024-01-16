@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;  
+}
+
+#duplicateField,
+form, p {
+    font-size: 25px;
+}
+
+input, 
+button {
+    background-color: rgb(246, 246, 233);
+}
+
+button {
+    border-radius: 50px;
+    width: 500px;
+    height: 40px;
+    font-size: 20px;
+}
+
+input {
+    font-size: 20px;
+    height: 35px;
+    width: 500px;
+}
+
+form, 
+p, 
+a {
+    margin: 30px;    
+}
+
+a {
+    font-size: 25px;
+}
+
+a:visited {
+	color:  blue;
+}
+
+a:hover {
+	color: green;
+}
+
+a:active {
+	color:red;
+}

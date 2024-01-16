@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;  
+}
+
+p, 
+code,
+a {
+    margin: 0 30px;
+    padding: 10px;
+}
+
+p {
+    font-size: 35px;
+}
+
+code {
+    font-size: 20px;
+}
+
+a {
+    font-size: 25px;
+}
+
+a:visited {
+	color:  blue;
+}
+a:hover {
+	color: green;
+}
+a:active {
+	color:red;
+}
